@@ -1,3 +1,1 @@
 # stevens.institute
-
-Hello World!
