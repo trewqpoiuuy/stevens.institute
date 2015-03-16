@@ -20,11 +20,11 @@ An open image board for the students, faculty, and staff of Stevens Institute of
 ### Requirements
 - Implement a setup script to install all dependencies and recommended packages.
 - Implement an update script to pull source from the master repository.
-- Discuss, plan, and design all major pages of the site. Defining requirements for each page.
+- ~~Discuss, plan, and design all major pages of the site. Defining requirements for each page.~~
 
 ### System Design
 - Following the requirements specified above, design and implement the site's database structure and create setup scripts.
-- Discuss how requests will be routed and write the web server's configuration file.
+- ~~Discuss how requests will be routed and write the web server's configuration file.~~
 
 ### Implementation
 - todo
