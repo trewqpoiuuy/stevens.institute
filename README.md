@@ -4,10 +4,17 @@ An open image board for the students, faculty, and staff of Stevens Institute of
 
 
 ## Boards
-- hw : homework board
+- a : anime board
 - adv : advise board
-- soc : social board
+- b : random
+- g : video game board
+- e : entertainment
+- hw : homework board
 - pic : picture board
+- pol : politics board
+- soc : social board
+- t : technology board
+
 
 
 ## Tasks
