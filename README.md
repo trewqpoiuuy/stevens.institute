@@ -2,6 +2,15 @@
 
 An open image board for the students, faculty, and staff of Stevens Institute of Technology.
 
+
+## Boards
+- hw : homework board
+- adv : advise board
+- soc : social board
+- pic : picture board
+- honor : honor board
+
+
 ## Tasks
 ### Requirements
 - Implement a setup script to install all dependencies and recommended packages.
@@ -18,9 +27,11 @@ An open image board for the students, faculty, and staff of Stevens Institute of
 ### Unit Testing
 - todo
 
+
 ## Dependencies
 * `mysql-server`, `php5-mysql` : database server
 * `php5` : programming language
+
 
 ## Recommended
 * `apache2`, `libapache2-mod-auth-mysql`, `libapache2-mod-php5` : web server
