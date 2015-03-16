@@ -24,7 +24,7 @@ An open image board for the students, faculty, and staff of Stevens Institute of
 
 ### System Design
 - Following the requirements specified above, design and implement the site's database structure and create setup scripts.
-- ~~Discuss how requests will be routed and write the web server's configuration file.~~
+- ~~Discuss how requests will be routed and write the web server's configuration file. **(Completed: 3/16/15)**~~
 
 ### Implementation
 - todo
