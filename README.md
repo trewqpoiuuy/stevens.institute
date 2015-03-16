@@ -11,7 +11,7 @@ An open image board for the students, faculty, and staff of Stevens Institute of
 - e : entertainment
 - hw : homework board
 - pic : picture board
-- pol : politics board
+- tj : politics board
 - soc : social board
 - t : technology board
 
