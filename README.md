@@ -8,7 +8,6 @@ An open image board for the students, faculty, and staff of Stevens Institute of
 - adv : advise board
 - soc : social board
 - pic : picture board
-- honor : honor board
 
 
 ## Tasks
