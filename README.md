@@ -10,8 +10,8 @@ An open image board for the students, faculty, and staff of Stevens Institute of
 - g : technology board
 - hw : homework board
 - pic : picture board
-- tj : politics board
 - soc : social board
+- tj : politics board
 - tv : television board
 - v : video game board
 
