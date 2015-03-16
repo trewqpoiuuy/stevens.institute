@@ -9,10 +9,13 @@ An open image board for the students, faculty, and staff of Stevens Institute of
 - Discuss, plan, and design all major pages of the site. Defining requirements for each page.
 
 ### System Design
-- Using the requirements specified above, design and implement the site's database structure.
+- Following the requirements specified above, design and implement the site's database structure and create setup scripts.
 - Discuss how requests will be routed and write the web server's configuration file.
 
 ### Implementation
+- todo
+
+### Unit Testing
 - todo
 
 ## Dependencies
