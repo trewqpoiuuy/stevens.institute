@@ -6,13 +6,13 @@ An open image board for the students, faculty, and staff of Stevens Institute of
 ## Boards
 - a : anime board
 - adv : advise board
-- b : random
-- e : entertainment
+- b : random board
 - hw : homework board
 - pic : picture board
 - tj : politics board
 - soc : social board
 - t : technology board
+- tv : entertainment
 - v : video game board
 
 
